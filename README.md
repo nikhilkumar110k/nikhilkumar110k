@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/nikhil110k" target="blank"><img src="https://img.shields.io/twitter/follow/nikhil110k?logo=twitter&style=for-the-badge" alt="nikhil110k" /></a> </p>
 
-- 🔭 I’m currently working on **Big data, Cross Platform development**
+- 🔭 I’m currently working on **Big data, Cross Platform mobile development**
 
 - 🌱 I’m currently learning **Golang, Kotlin**
 
