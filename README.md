@@ -1,4 +1,3 @@
-In my GitHub readme I am not able to get commits stats 
 
 <h1 align="center">Hi 👋, I'm Nikhil Kumar</h1>
 <h3 align="center">I work in ML/AI/DL and full stack and flutter and Android/mobile development domains.</h3>
