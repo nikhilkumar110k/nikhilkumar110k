@@ -15,7 +15,7 @@
 - 👯 I’m open to collaborate on **Machine Learning, Reinforcement Learning, and Web/Mobile Development**  
 - 💬 Ask me about **Machine Learning, Transformers, TensorFlow, Flutter, Cloud, and Full-Stack Development**  
 - 📫 Reach me at **nikhil4040k@gmail.com**  
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1hhgGhy-0EO1jyy0tS13iCKmy3JtFdRx_/view?usp=drive_link)  
+- 📄 Check out my [Resume](https://drive.google.com/file/d/12wfDD7FJnb5rhu-zpV7Kyn74Tx5O8_he/view?usp=drivesdk)
 
 ---
 
