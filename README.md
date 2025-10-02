@@ -14,7 +14,7 @@
 - 👯 Open to collaborations in **AI research, distributed systems, and full-stack/mobile development**  
 - 💬 Ask me about **Deep Learning, Reinforcement Learning, Transformers, Flutter, and Cloud Architecture**  
 - 📫 Reach me at: **nikhil4040k@gmail.com**  
-- 📄 My Resume: [View Resume](https://drive.google.com/file/d/1hhgGhy-0EO1jyy0tS13iCKmy3JtFdRx_/view?usp=drive_link)  
+- 📄 My Resume: [View Resume](https://drive.google.com/file/d/12wfDD7FJnb5rhu-zpV7Kyn74Tx5O8_he/view?usp=drivesdk)
 
 ---
 
